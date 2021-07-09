@@ -1,2 +1,2 @@
-# telegramClone
+# SkypeClone
 
